@@ -1,6 +1,5 @@
 <h1 align="center">Hola, soy JanierM3<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmEzeWFid3FnbGRrZTVxN3BtdnRyNW9wYXpvbWN6ZGM5d3JhOGllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hrC8eh0xk1vDfQnRKG/giphy.gif" width="35"></h1>
 
-**!Bienvenido a mi perfil!**
 <br />
 <br />
 
