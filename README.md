@@ -16,12 +16,7 @@
 
 <br><br>
 
-- :school:  Programador junior enfocado en backend.
-- :trophy: Experiencia en proyectos académicos con C#, JavaScript y SQL Server.
-- :technologist: He desarrollado aplicaciones web con operaciones CRUD.
-- :computer: Trabajo en equipo usando Git y GitHub.
-- :student: Actualmente reforzando bases de programación y buenas prácticas.
-- :nerd_face: En búsqueda de mi primera oportunidad como desarrollador junior.
+- :school:  Vale monda la programación. 
 <br>
 
 <h3> 🛠 &nbsp;Skill</h3>
